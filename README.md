@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![dbt logo and version](https://img.shields.io/static/v1?logo=dbt&label=dbt-version&message=1.10%2B&color=orange)
 
 ![Tuva Project Overview](./docs/static/img/tuva_project_overview_from_downloads.jpg)
@@ -130,3 +131,6 @@ Current published defaults:
 - `concept-library` uses `1.0.1`
 - `terminology` uses `1.1.1`
 - `reference-data`, `value-sets`, `provider-data`, and `synthetic-data` use `1.0.0`
+=======
+# HIPAA-Compliant-Clinical-Data-Platform
+>>>>>>> 7e5599430d8c8f4496747592bb5e04ac2a4b2614
